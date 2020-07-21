@@ -1,4 +1,4 @@
-## Carbon sink potential of land use change in Finland
+## Carbon sink potential of land use change on mineral soils in Finland
 ## Tupek et al. 2020 boris.tupek@luke.fi
 
 # CONTENT of the SOC analysis include:
