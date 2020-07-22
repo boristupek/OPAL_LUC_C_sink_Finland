@@ -1,4 +1,4 @@
-## Carbon sink potential of land use change on mineral soils in Finland
+## Carbon sink of land use change by mineral soil cropland extensification and afforestation can offset only a small fraction of national CO2 emissions in a boreal region
 ## Tupek et al. 2020 boris.tupek@luke.fi
 
 # CONTENT of the SOC analysis include:
