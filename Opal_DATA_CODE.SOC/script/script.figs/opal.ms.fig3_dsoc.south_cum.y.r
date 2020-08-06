@@ -149,7 +149,7 @@ plot(1,1, col = "white",
 par(xpd=F)
 abline(v = 1900, col = 2, lty = 3)
 abline(h = 0, col = 2, lty = 1)
-mtext( expression( Delta ~ bar(SOC) ~~ "( tC" ~ "ha"^{-1} ~ "year"^{-1} ~")"),
+mtext( expression( Delta ~ bar(SOC) ~~ "( Mg C" ~ "ha"^{-1} ~ "year"^{-1} ~")"),
        2, out = F, line = 3, cex = 1.2)
 #cultivation crop
 lines(1900:2017, dmysoc.hi[1:118], lty=2, col = 4) #c(4,1,2)[i])
