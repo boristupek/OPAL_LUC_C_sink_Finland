@@ -311,7 +311,7 @@ for(i in 1:9){ #panels
   
   
 }
-mtext( expression("SOC stock" ~~ "( tC" ~ "ha"^{-1} ~ ")"), #"y"^{-1}~
+mtext( expression("SOC stock" ~~ "( Mg C" ~ "ha"^{-1} ~ ")"), #"y"^{-1}~
        2, out = T, line = 1.5, cex = 1.2)
 mtext( "Time (year)", 
        1, out = T, line = 1.7, cex = 1.2)
