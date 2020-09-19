@@ -1,4 +1,4 @@
-## Carbon sink of mineral soil cropland extensification and afforestation in Finland
+## Extensification and afforestation of cultivated mineral soil for climate change mitigation in Finland
 ## Tupek et al. 2020 boris.tupek@luke.fi
 
 # CONTENT of the SOC analysis include:
